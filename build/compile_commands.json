@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/e/C++/mp2020/tasks/Simple programs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -isystem /usr/include/x86_64-linux-gnu/mpich  -g   -o CMakeFiles/useable.dir/useable.c.o   -c \"/mnt/e/C++/mp2020/tasks/Simple programs/useable.c\"",
+  "file": "/mnt/e/C++/mp2020/tasks/Simple programs/useable.c"
+},
+{
+  "directory": "/mnt/e/C++/mp2020/tasks/Simple programs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -isystem /usr/include/x86_64-linux-gnu/mpich  -g   -o CMakeFiles/simple.dir/test1.c.o   -c \"/mnt/e/C++/mp2020/tasks/Simple programs/test1.c\"",
+  "file": "/mnt/e/C++/mp2020/tasks/Simple programs/test1.c"
+}
+]
