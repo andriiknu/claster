@@ -1,6 +1,0 @@
-/mnt/e/C++/mp2020/tasks/Simple programs/build/CMakeFiles/edit_cache.dir
-/mnt/e/C++/mp2020/tasks/Simple programs/build/CMakeFiles/package_source.dir
-/mnt/e/C++/mp2020/tasks/Simple programs/build/CMakeFiles/rebuild_cache.dir
-/mnt/e/C++/mp2020/tasks/Simple programs/build/CMakeFiles/package.dir
-/mnt/e/C++/mp2020/tasks/Simple programs/build/CMakeFiles/useable.dir
-/mnt/e/C++/mp2020/tasks/Simple programs/build/CMakeFiles/simple.dir

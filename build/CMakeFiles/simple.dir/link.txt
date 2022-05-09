@@ -1,1 +1,0 @@
-/bin/x86_64-linux-gnu-gcc-9 -g  -rdynamic -Wl,-Bsymbolic-functions CMakeFiles/simple.dir/test1.c.o  -o simple  -lmpich 
